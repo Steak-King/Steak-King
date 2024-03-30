@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Steak-King. Previously a Senior Ambassador of the Acala team (a Polkadot Parachain) and a long term eCommerce entrepreneur.
+- 👋 As a Polkadot Relayers participant, I am very bullish on the Polkadot ecosystem and want to develop use cases and attract uses to the network.
 - 👀 With over 20+ years building an eCommerce business, my interests are to merge a Real World use case with the Crypto financial revolution.
-- 🌱 I’m currently looking to establish my new DEX for the Polkadot Asset Hub and a payment gateway platform bringing the world of Crypto to everyday citizens through ecommerce online purchases.
+- 🌱 I’m currently looking to establish a new DEX for the Polkadot Asset Hub called AssetX and simultainously build a payment gateway platform bringing the world of Crypto to everyday people through ecommerce online purchases.
 - 💞️ I’m looking to collaborate with the likeminded and technical team members to bring the utility of the DEX and payment gateway for eCommerce merchants from concept to reality.
 - 📫 If you would like to be a part of our exciting journey, you can find me in the our Discord Server:[https://discord.gg/yymSJRsh](https://discord.gg/XjVrPgPZ) under the username: Steak King (Steak King#9608)
