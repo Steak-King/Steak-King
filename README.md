@@ -3,4 +3,4 @@
 - 👀 With over 20+ years building an eCommerce business, my interests are to merge a Real World use case with the Crypto financial revolution.
 - 🌱 I’m currently looking to establish a new DEX for the Polkadot Asset Hub called AssetX and simultainously build a payment gateway platform bringing the world of Crypto to everyday people through ecommerce online purchases.
 - 💞️ I’m looking to collaborate with the likeminded and technical team members to bring the utility of the DEX and payment gateway for eCommerce merchants from concept to reality.
-- 📫 If you would like to be a part of our exciting journey, you can find me in the our Discord Server:[https://discord.gg/yymSJRsh](https://discord.gg/XjVrPgPZ) under the username: Steak King (Steak King#9608)
+- 📫 If you would like to be a part of our exciting journey, you can find me in the our Discord Server: https://discord.gg/QJwP8jT7Dr under the username: Steak King (Steak King#9608)
